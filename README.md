@@ -1,1 +1,3 @@
-MERN Stack Course (by Ethnus)
+# MERN Stack Course (by Ethnus)
+
+Duration 
