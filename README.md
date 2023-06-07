@@ -1,3 +1,3 @@
 # MERN Stack Course (by Ethnus)
 
-Duration 
+Duration - 2 Months
