@@ -1,3 +1,10 @@
 # MERN Stack Course (by Ethnus)
 
-Duration 
+Duration - 2 Months
+
+Tasks - 4/day
+
+Weekly classes - (Mon - Fri)
+
+Class duration - 2 hours
+
