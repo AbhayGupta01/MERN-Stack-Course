@@ -6,3 +6,5 @@ Tasks - 4/day
 
 Weekly classes - (Mon - Fri)
 
+Class
+
