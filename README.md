@@ -4,5 +4,5 @@ Duration - 2 Months
 
 Tasks - 4/day
 
-Weekly classes - (Mon)
+Weekly classes - (Mon - Fri)
 
