@@ -6,5 +6,5 @@ Tasks - 4/day
 
 Weekly classes - (Mon - Fri)
 
-Class duration - 
+Class duration - 2 hours
 
